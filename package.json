@@ -1,0 +1,15 @@
+{
+  "name": "Mesurements",
+  "version": "1.0.0",
+  "description": "Testing with mocha ",
+  "main": "mesurements.js",
+  "scripts": {
+    "test": "mocha **/*.mesurements.js"},
+  "author": "Briant Oliveira",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
